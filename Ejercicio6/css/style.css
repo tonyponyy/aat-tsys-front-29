@@ -1,0 +1,31 @@
+
+table{
+   background-image:  url("../img/pisadas.jpg");
+   width:70%;
+   text-align: center;
+   margin-left: 120px;
+   color: darkred;
+   border: 3px solid black;
+   border-bottom: 3px solid gray;
+   border-right: 3px solid gray;
+}
+
+th,td{
+     border: 1px solid black;
+   border-bottom: 1px solid gray;
+   border-right: 1px solid gray;
+}
+
+th{
+   background-color: darkgreen;
+   font-weight: normal;
+}
+
+.salmon{
+   background-color: salmon;
+}
+
+.amarillo_roto{
+   background-color: lightyellow;
+}
+
